@@ -24,7 +24,5 @@ pdf.cell(0, 10, "Texto alinhado à esquerda", ln=True, align='L')
 # Adiciona um bloco de texto na célula
 pdf.cell(100, 10, "Olá, mundo")
 
-
-
 # Salva o documento em um arquivo PDF
 pdf.output("document.pdf")
