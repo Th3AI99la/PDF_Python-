@@ -1,3 +1,3 @@
-**Criar PDF (em andamento)**
+**Criar PDF com Python(em andamento)**
 
-Python
+- Projeto inicializado
