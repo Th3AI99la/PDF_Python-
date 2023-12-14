@@ -6,12 +6,8 @@ pdf = fpdf.FPDF()
 # Adiciona uma página
 pdf.add_page()
 
-
-
 # Define a fonte como Arial em negrito tamanho 14
 pdf.set_font("Arial", "B", 14)
-
-
 
 # Define a cor de fundo da célula
 pdf.set_fill_color(255, 255, 0)  # Define a cor de preenchimento como amarelo
