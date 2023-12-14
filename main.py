@@ -31,4 +31,4 @@ pdf.cell(100, 10, "Olá, mundo")
 
 
 # Salva o documento em um arquivo PDF
-pdf.output("document1.pdf")
+pdf.output("document.pdf")
